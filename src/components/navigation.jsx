@@ -5,6 +5,7 @@ export const Navigation = (props) => {
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
         <div className="navbar-header">
+          {/* 漢堡 */}
           <button
             type="button"
             className="navbar-toggle collapsed"
