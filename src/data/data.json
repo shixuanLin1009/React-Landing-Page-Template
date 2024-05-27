@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "Voyamee",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "發現新活動，結識新朋友!",
+    "paragraph": "快來加入我們，發現更多生活樂趣，結交更多志同道合的朋友！您的下一個冒險，就從這裡開始。"
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "個性化活動推薦",
+      "text": "根據您的興趣和位置，為您推薦附近的各種優質活動。讓您的每個週末都充滿新鮮感。"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "精選餐廳",
+      "text": "我們精心挑選了附近的餐廳、酒吧和各種休閒場所。為您打造全方位的愉快體驗。"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "結識朋友",
+      "text": "您可以在這裡找到有共同愛好的朋友，一起探索城市的精彩，讓每次活動都更加有趣和有意義。"
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "保障參與人的安全",
+      "text": "我們的平台嚴格審核活動主辦方，確保您參與的每個活動都能安心放心。"
     }
   ]
 }
