@@ -219,6 +219,7 @@ a:focus,
     rgba(193, 139, 192, 0.8) 92.54%,
     rgba(199, 135, 210, 0.8) 92.54%
   );
+  /* background: #fff; */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -227,6 +228,11 @@ a:focus,
 .intro .overlay {
   background: rgba(0, 0, 0, 0.05);
 }
+/* .intro .frame {
+  border: 2px solid #000;
+  margin-top: 400px;
+  size: 300px;
+} */
 .intro h1 {
   font-family: "Raleway", sans-serif;
   color: #fff;
@@ -236,10 +242,10 @@ a:focus,
   margin-top: 0;
   margin-bottom: 20px;
   white-space: nowrap;
-  color: #fff;
+  color: #000;
 }
 .intro p {
-  color: #fff;
+  color: #000;
   font-size: 22px;
   font-weight: 300;
   line-height: 30px;
@@ -254,7 +260,8 @@ header .intro-text {
 }
 /* Features Section */
 #features {
-  background: #f6f6f6;
+  background: #fff;
+  margin-bottom: 50px;
 }
 #features .section-title {
   margin-top: 40px;
@@ -264,20 +271,12 @@ header .intro-text {
   margin-top: 0px;
   margin-bottom: 20px;
   transition: all 0.5s;
-  color: #fff;
+  color: #3e1f1f;
   width: 100px;
   height: 100px;
   padding: 30px 0;
   border-radius: 50%;
-  background: linear-gradient(
-    107deg,
-    rgba(94, 255, 255, 0.8) 16.35%,
-    rgba(97, 173, 209, 0.8) 44.48%,
-    rgba(117, 126, 208, 0.8) 59.92%,
-    rgba(173, 118, 203, 0.8) 82.27%,
-    rgba(193, 139, 192, 0.8) 92.54%,
-    rgba(199, 135, 210, 0.8) 92.54%
-  );
+  background: rgba(94, 255, 255, 0.4);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 /* About Section */
